@@ -4,7 +4,7 @@ A browser-based Rock Paper Scissors game built using **HTML**, **CSS**, and **Ja
 
 ## Live Demo
 
-*(Add your GitHub Pages link here if you deploy it.)*
+https://yathaarthag.github.io/rock-paper-scissors/
 
 ## Features
 
