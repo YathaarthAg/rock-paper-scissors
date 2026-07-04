@@ -21,7 +21,10 @@ https://yathaarthag.github.io/rock-paper-scissors/
 
 ## Acknowledgement
 
-This project was built as a learning exercise by following the tutorial below.
+This project was built as part of my JavaScript learning journey by following the tutorial linked below.
 
-Tutorial:
+The implementation closely follows the tutorial and helped me understand core JavaScript concepts such as DOM manipulation, event handling, and interactive web development.
+
+**Tutorial:**
+
 https://www.youtube.com/watch?v=VlPiVmYuoqw&t=28001s
